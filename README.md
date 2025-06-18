@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0513-find-bottom-left-tree-value) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1254-deepest-leaves-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0513-find-bottom-left-tree-value) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1254-deepest-leaves-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0513-find-bottom-left-tree-value) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1254-deepest-leaves-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0513-find-bottom-left-tree-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0513-find-bottom-left-tree-value) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1254-deepest-leaves-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
