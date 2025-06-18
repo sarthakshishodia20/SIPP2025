@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0222-count-complete-tree-nodes) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0513-find-bottom-left-tree-value) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0222-count-complete-tree-nodes) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0513-find-bottom-left-tree-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0513-find-bottom-left-tree-value) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1254-deepest-leaves-sum) |
@@ -133,4 +137,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
