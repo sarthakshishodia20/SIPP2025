@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1254-deepest-leaves-sum) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1254-deepest-leaves-sum) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1254-deepest-leaves-sum) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
