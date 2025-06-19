@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1105-uncrossed-lines](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1105-uncrossed-lines) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Sorting
+|  |
+| ------- |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 <!---LeetCode Topics End-->
