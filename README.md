@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0513-find-bottom-left-tree-value) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1035-cousins-in-binary-tree) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0513-find-bottom-left-tree-value) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1035-cousins-in-binary-tree) |
@@ -156,5 +158,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
