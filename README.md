@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1140-distant-barcodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1140-distant-barcodes) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Binary Search Tree
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1879-maximum-score-from-removing-stones](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1879-maximum-score-from-removing-stones) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Matrix
 |  |
 | ------- |
