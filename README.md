@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Sorting
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0239-sliding-window-maximum) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
