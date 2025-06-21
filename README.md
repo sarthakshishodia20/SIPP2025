@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0198-house-robber) |
+| [0239-sliding-window-maximum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0658-find-k-closest-elements) |
 ## Divide and Conquer
 |  |
@@ -246,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1014-k-closest-points-to-origin) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
