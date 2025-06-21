@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1014-k-closest-points-to-origin](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1014-k-closest-points-to-origin) |
 | [1105-uncrossed-lines](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1105-uncrossed-lines) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0658-find-k-closest-elements) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1014-k-closest-points-to-origin) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 ## Binary Search Tree
@@ -214,10 +217,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0658-find-k-closest-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1014-k-closest-points-to-origin) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
