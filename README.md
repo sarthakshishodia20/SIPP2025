@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0778-reorganize-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -337,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0410-split-array-largest-sum) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
