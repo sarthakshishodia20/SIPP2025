@@ -1,51 +1,53 @@
 class Trie {
-    static class Node{
-        Node[] children=new Node[26];
-        boolean eow=false;
-        public Node(){
-            for(int i=0;i<26;i++){
-                children[i]=null;
-            }
-        }
+    static class Node {
+        char ch;
+        HashMap<Character, Node> child = new HashMap<>();
+        boolean isTerminal;
     }
-    private static Node root;
+    public static Node root;
     public Trie() {
-        root=new Node();
+        root = new Node();
+        root.ch = '*'; 
+        root.isTerminal = false;
     }
-    
     public void insert(String word) {
-        Node curr=root;
-        for(int level=0;level<word.length();level++){
-            int idx=word.charAt(level)-'a';
-            if(curr.children[idx]==null){
-                curr.children[idx]=new Node();
+        Node curr = root;
+        for (int i = 0; i < word.length(); i++) {
+            char ch = word.charAt(i);
+            if (curr.child.containsKey(ch)) {
+                curr = curr.child.get(ch);
+            } else {
+                Node newNode = new Node();
+                newNode.ch = ch; 
+                curr.child.put(ch, newNode); 
+                curr = newNode;
             }
-            curr=curr.children[idx];
         }
-        curr.eow=true;
+        curr.isTerminal = true;
     }
-    
+
     public boolean search(String word) {
-        Node curr=root;
-        for(int level=0;level<word.length();level++){
-            int idx=word.charAt(level)-'a';
-            if(curr.children[idx]==null){
+        Node curr = root;
+        for (int i = 0; i < word.length(); i++) {
+            char ch = word.charAt(i);
+            if (curr.child.containsKey(ch)) {
+                curr = curr.child.get(ch);
+            } else {
                 return false;
             }
-            curr=curr.children[idx];
         }
-        return curr.eow==true;
+        return curr.isTerminal;
     }
-    
+
     public boolean startsWith(String prefix) {
-        Node curr=root;
-        for(int level=0;level<prefix.length();level++)
-        {
-            int idx=prefix.charAt(level)-'a';
-            if(curr.children[idx]==null){
+        Node curr = root;
+        for (int i = 0; i < prefix.length(); i++) {
+            char ch = prefix.charAt(i);
+            if (curr.child.containsKey(ch)) {
+                curr = curr.child.get(ch);
+            } else {
                 return false;
             }
-            curr=curr.children[idx];
         }
         return true;
     }
