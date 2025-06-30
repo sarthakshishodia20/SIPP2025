@@ -4,7 +4,6 @@ class Solution {
         int ans = 0;
         HashMap<Integer, Integer> map = new HashMap<>();
         map.put(0, 1);
-        
         for (int num : nums) {
             sum += num;
             if (map.containsKey(sum - k)) {
