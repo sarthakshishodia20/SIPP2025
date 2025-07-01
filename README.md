@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1140-distant-barcodes) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0778-reorganize-string) |
 | [1140-distant-barcodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1140-distant-barcodes) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
