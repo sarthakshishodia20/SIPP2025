@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0445-add-two-numbers-ii) |
 ## Tree
 |  |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
