@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0778-reorganize-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0646-maximum-length-of-pair-chain) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0496-next-greater-element-i) |
 ## Tree
 |  |
 | ------- |
@@ -374,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0025-reverse-nodes-in-k-group) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
