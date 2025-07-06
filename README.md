@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0347-top-k-frequent-elements) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0146-lru-cache) |
 | [0445-add-two-numbers-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0445-add-two-numbers-ii) |
 ## Sorting
 |  |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
@@ -381,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0496-next-greater-element-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
