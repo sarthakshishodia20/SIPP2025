@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2227-sum-of-subarray-ranges](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2227-sum-of-subarray-ranges) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0155-min-stack) |
 | [0445-add-two-numbers-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0496-next-greater-element-i) |
+| [2227-sum-of-subarray-ranges](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0496-next-greater-element-i) |
+| [2227-sum-of-subarray-ranges](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2227-sum-of-subarray-ranges) |
 ## Doubly-Linked List
 |  |
 | ------- |
