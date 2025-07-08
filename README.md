@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -406,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0146-lru-cache) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
