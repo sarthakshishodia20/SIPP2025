@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
+| [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0134-gas-station) |
+| [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0169-majority-element) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0300-longest-increasing-subsequence) |
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 ## Recursion
 |  |
@@ -413,4 +418,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
