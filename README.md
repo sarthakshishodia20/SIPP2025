@@ -412,4 +412,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
+| [0052-n-queens-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
