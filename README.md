@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1105-uncrossed-lines](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1105-uncrossed-lines) |
 | [1140-distant-barcodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1140-distant-barcodes) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1435-xor-queries-of-a-subarray](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0222-count-complete-tree-nodes) |
+| [1435-xor-queries-of-a-subarray](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1435-xor-queries-of-a-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0560-subarray-sum-equals-k) |
+| [1435-xor-queries-of-a-subarray](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1435-xor-queries-of-a-subarray) |
 ## Design
 |  |
 | ------- |
