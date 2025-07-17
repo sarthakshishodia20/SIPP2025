@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1105-uncrossed-lines](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1105-uncrossed-lines) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Math
 |  |
@@ -434,8 +435,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0210-course-schedule-ii) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
