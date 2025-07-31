@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
+| [0290-word-pattern](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0778-reorganize-string) |
