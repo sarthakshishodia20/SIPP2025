@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1582-design-browser-history](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0739-daily-temperatures) |
+| [1582-design-browser-history](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1582-design-browser-history) |
 | [2227-sum-of-subarray-ranges](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0146-lru-cache) |
 | [0445-add-two-numbers-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0445-add-two-numbers-ii) |
+| [1582-design-browser-history](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1582-design-browser-history) |
 ## Sorting
 |  |
 | ------- |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
+| [1582-design-browser-history](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1582-design-browser-history) |
 ## Trie
 |  |
 | ------- |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1582-design-browser-history) |
 ## Backtracking
 |  |
 | ------- |
@@ -489,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0173-binary-search-tree-iterator) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
