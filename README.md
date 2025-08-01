@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0172-factorial-trailing-zeroes) |
 | [0445-add-two-numbers-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0445-add-two-numbers-ii) |
 | [1014-k-closest-points-to-origin](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1014-k-closest-points-to-origin) |
 | [1879-maximum-score-from-removing-stones](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1879-maximum-score-from-removing-stones) |
