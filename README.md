@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1582-design-browser-history) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
