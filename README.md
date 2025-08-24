@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1582-design-browser-history](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1582-design-browser-history) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Math
 |  |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1813-maximum-erasure-value) |
 ## Divide and Conquer
 |  |
