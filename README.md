@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0646-maximum-length-of-pair-chain) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0054-spiral-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0498-diagonal-traverse](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2047-find-a-peak-element-ii) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0498-diagonal-traverse) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
 ## Prefix Sum
