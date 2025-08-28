@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 | [0290-word-pattern](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0290-word-pattern) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0056-merge-intervals) |
+| [0079-word-search](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -490,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
 | [0052-n-queens-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
