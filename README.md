@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3748-sort-matrix-by-diagonals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
+| [3748-sort-matrix-by-diagonals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2047-find-a-peak-element-ii) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
+| [3748-sort-matrix-by-diagonals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
 | ------- |
