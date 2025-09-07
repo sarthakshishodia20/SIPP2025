@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0140-word-break-ii) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
