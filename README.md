@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3748-sort-matrix-by-diagonals) |
 ## Dynamic Programming
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1254-deepest-leaves-sum) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2047-find-a-peak-element-ii) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
 |  |
@@ -513,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0210-course-schedule-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -521,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Iterator
 |  |
 | ------- |
