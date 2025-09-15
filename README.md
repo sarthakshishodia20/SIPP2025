@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0940-fruit-into-baskets) |
 | [1140-distant-barcodes](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1140-distant-barcodes) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0778-reorganize-string) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2887-sort-vowels-in-a-string) |
