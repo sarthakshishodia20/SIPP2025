@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3748-sort-matrix-by-diagonals) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3558-find-a-safe-walk-through-a-grid) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3748-sort-matrix-by-diagonals) |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -550,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2422-query-kth-smallest-trimmed-number) |
+## Union Find
+|  |
+| ------- |
+| [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
