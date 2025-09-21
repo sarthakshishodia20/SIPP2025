@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0146-lru-cache) |
 | [0445-add-two-numbers-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0445-add-two-numbers-ii) |
 | [1582-design-browser-history](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1582-design-browser-history) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Sorting
 |  |
 | ------- |
