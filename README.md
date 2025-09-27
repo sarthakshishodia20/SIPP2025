@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3748-sort-matrix-by-diagonals) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3952-trionic-array-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3952-trionic-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
