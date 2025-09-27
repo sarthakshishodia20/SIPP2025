@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2227-sum-of-subarray-ranges) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -184,10 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1014-k-closest-points-to-origin) |
 | [1879-maximum-score-from-removing-stones](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1879-maximum-score-from-removing-stones) |
 | [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -498,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0498-diagonal-traverse) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
 ## Prefix Sum
