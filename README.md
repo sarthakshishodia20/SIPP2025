@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3748-sort-matrix-by-diagonals) |
+| [3790-fruits-into-baskets-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3790-fruits-into-baskets-ii) |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
 | [3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3894-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3952-trionic-array-i](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3952-trionic-array-i) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2047-find-a-peak-element-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
+| [3790-fruits-into-baskets-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -586,4 +589,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3823-count-islands-with-total-value-divisible-by-k](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3823-count-islands-with-total-value-divisible-by-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
