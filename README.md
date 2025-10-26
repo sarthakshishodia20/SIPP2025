@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1813-maximum-erasure-value) |
+| [2169-simple-bank-system](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1813-maximum-erasure-value) |
 | [2047-find-a-peak-element-ii](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2047-find-a-peak-element-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2169-simple-bank-system](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2169-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2227-sum-of-subarray-ranges) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2270-find-all-lonely-numbers-in-the-array) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0498-diagonal-traverse) |
+| [2169-simple-bank-system](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2728-sum-in-a-matrix) |
@@ -522,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/sarthakshishodia20/SIPP2025/tree/master/0208-implement-trie-prefix-tree) |
 | [1582-design-browser-history](https://github.com/sarthakshishodia20/SIPP2025/tree/master/1582-design-browser-history) |
+| [2169-simple-bank-system](https://github.com/sarthakshishodia20/SIPP2025/tree/master/2169-simple-bank-system) |
 ## Trie
 |  |
 | ------- |
